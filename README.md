@@ -1,5 +1,5 @@
 ## Hi there 👋
-![Anirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Anirban's GitHub stats](https://github-readme-stats.vercel.app/api?username=yashgoyal0110&show_icons=true&theme=radical)
 
 
 <!--
