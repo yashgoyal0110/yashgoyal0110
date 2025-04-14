@@ -3,6 +3,13 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yashgoyal0110&theme=radical)
 
+### 🛠️ Languages and Tools:
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+...
+
+
+
 
 
 <!--
