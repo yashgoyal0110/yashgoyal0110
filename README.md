@@ -3,7 +3,7 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=yashgoyal0110&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoyal0110&layout=compact&theme=radical)
+
 
 
 
