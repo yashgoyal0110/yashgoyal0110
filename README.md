@@ -10,22 +10,15 @@ Welcome to my GitHub! I'm a developer passionate about building scalable systems
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoyal0110&layout=compact&theme=radical)
 
 ---
+## 🔥 GitHub Streak
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=yashgoyal0110&theme=rogue)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgoyal0110&theme=radical)
 
 ---
 
 ## 🏆 GitHub Trophies
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=yashgoyal0110&theme=monokai&no-frame=true&column=4)
-
----
-
-## 🔥 GitHub Streak
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yashgoyal0110&theme=radical)
 
 ---
 
