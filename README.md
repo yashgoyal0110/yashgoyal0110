@@ -1,5 +1,9 @@
 # 👋 Hey, I'm Yash Goyal
 
+<p align="center">
+        <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Github Stats" />
+</p>
+
 Welcome to my GitHub! I'm a developer passionate about building scalable systems, exploring blockchain tech, and contributing to open-source. Here’s a snapshot of my activity and skills:
 
 ---
