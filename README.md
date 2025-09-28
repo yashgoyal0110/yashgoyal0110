@@ -78,20 +78,6 @@ Currently diving deep into:
 
 ---
 
-## 💡 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack |
-|---------|-------------|------------|
-| 🔗 **DeFi Protocol** | Decentralized lending platform with automated market making | `Solidity` `Web3.js` `React` |
-| ⚡ **Microservices API** | High-performance REST API with distributed architecture | `Java` `Spring Boot` `PostgreSQL` |
-| 🌐 **DevOps Pipeline** | CI/CD automation with containerized deployments | `Docker` `Kubernetes` `Jenkins` |
-
-</div>
-
----
-
 ## 📈 Contribution Graph
 
 <div align="center">
