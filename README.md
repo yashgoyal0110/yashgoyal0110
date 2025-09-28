@@ -20,11 +20,11 @@ I'm a passionate developer focused on **crafting robust backend systems** and **
 I love designing architectures that can handle scale, ensuring performance, reliability, and maintainability.  
 
 Currently diving deep into:
-- ⚡ **System Architecture** – Designing high-performance, scalable backend services  
-- 🌐 **Full-Stack Development** – Creating end-to-end solutions with modern frameworks  
-- 📊 **Machine Learning Applications** – Applying ML to solve practical problems  
-- 🛠️ **DevOps & Cloud** – Containerization, orchestration, and cloud-native solutions  
-- 🤝 **Open Source** – Contributing to projects that drive innovation forward  
+-  **System Architecture** – Designing high-performance, scalable backend services  
+-  **Full-Stack Development** – Creating end-to-end solutions with modern frameworks  
+-  **Machine Learning Applications** – Applying ML to solve practical problems  
+-  **DevOps & Cloud** – Containerization, orchestration, and cloud-native solutions  
+-  **Open Source** – Contributing to projects that drive innovation forward  
 
 ---
 
@@ -76,14 +76,6 @@ Currently diving deep into:
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgoyal0110&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=22C55E&line=3B82F6&point=F8FAFC" alt="Activity Graph" />
-</div>
-
----
-
-## 📈 Contribution Graph
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/yashgoyal0110/yashgoyal0110/output/snake.svg" alt="Snake animation" />
 </div>
 
 ---
