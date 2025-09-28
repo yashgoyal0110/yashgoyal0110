@@ -2,27 +2,29 @@
 
 # 👋 Yash Goyal
 
-**Full-Stack Developer & Blockchain Enthusiast**
+**Full-Stack Developer & Scalable Systems Enthusiast**
 
-*Building scalable systems, exploring decentralized technologies, and contributing to open-source innovation*
+*Building robust backend systems, exploring ML applications, and contributing to open-source innovation*
 
 ---
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Systems+%7C+Blockchain+Tech;Open+Source+Contributor;Scalable+Architecture+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3000&pause=1000&color=22C55E&center=true&vCenter=true&multiline=true&width=600&height=100&lines=Backend+Systems+%7C+DevOps+%7C+ML;Open+Source+Contributor;Scalable+Architecture+Enthusiast" alt="Typing SVG" />
 </p>
 
 </div>
 
 ## 🚀 About Me
 
-I'm a passionate developer focused on **crafting robust backend systems** and exploring the frontiers of **blockchain technology**. My work spans from building scalable microservices to contributing to open-source projects that make a difference.
+I'm a passionate developer focused on **crafting robust backend systems** and **building scalable full-stack applications**.  
+I love designing architectures that can handle scale, ensuring performance, reliability, and maintainability.  
 
 Currently diving deep into:
-- 🔗 **Blockchain Development** - Smart contracts, DeFi protocols, and Web3 infrastructure
-- ⚡ **System Architecture** - Designing high-performance, scalable backend systems
-- 🌐 **Open Source** - Contributing to projects that drive innovation forward
-- 🛠️ **DevOps & Cloud** - Containerization, orchestration, and cloud-native solutions
+- ⚡ **System Architecture** – Designing high-performance, scalable backend services  
+- 🌐 **Full-Stack Development** – Creating end-to-end solutions with modern frameworks  
+- 📊 **Machine Learning Applications** – Applying ML to solve practical problems  
+- 🛠️ **DevOps & Cloud** – Containerization, orchestration, and cloud-native solutions  
+- 🤝 **Open Source** – Contributing to projects that drive innovation forward  
 
 ---
 
@@ -32,17 +34,17 @@ Currently diving deep into:
 
 ### **Languages & Frameworks**
 <p>
-  <img src="https://skillicons.dev/icons?i=java,js,solidity,spring,nodejs,docker" alt="Languages & Frameworks" />
+  <img src="https://skillicons.dev/icons?i=java,ts,js,python,spring,nodejs,express,react,docker" alt="Languages & Frameworks" />
 </p>
 
 ### **Databases & Cloud**
 <p>
-  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,azure,aws,kubernetes" alt="Databases & Cloud" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mongodb,redis,azure,aws,kubernetes,gcp" alt="Databases & Cloud" />
 </p>
 
 ### **Tools & Platforms**
 <p>
-  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,jenkins,grafana" alt="Tools & Platforms" />
+  <img src="https://skillicons.dev/icons?i=git,linux,vscode,postman,jenkins,grafana,prometheus" alt="Tools & Platforms" />
 </p>
 
 </div>
