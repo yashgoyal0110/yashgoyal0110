@@ -4,7 +4,7 @@
 
 **Full-Stack Developer & Scalable Systems Enthusiast**
 
-*Building robust backend systems, exploring ML applications, and contributing to open-source innovation*
+*Building robust backend systems, exploring ML applications, and contributing to open-source innovations*
 
 ---
 
