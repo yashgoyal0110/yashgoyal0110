@@ -123,3 +123,7 @@ Currently diving deep into:
 
 ---
 
+## 💬 Let's Collaborate
+
+💡 Have a project idea or open-source challenge?  
+→ [Start a Discussion Here](https://github.com/yashgoyal0110/yashgoyal0110/discussions)  
