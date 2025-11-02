@@ -64,6 +64,12 @@ Currently diving deep into:
 
 ---
 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashgoyal0110&theme=tokyonight" />
+</p>
+
+---
+
 ## 🏆 Achievements
 
 <div align="center">
@@ -116,8 +122,4 @@ Currently diving deep into:
 </div>
 
 ---
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashgoyal0110&theme=tokyonight" />
-</p>
 
