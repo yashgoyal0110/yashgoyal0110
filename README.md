@@ -108,3 +108,10 @@ Currently diving deep into:
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" alt="Footer Wave" />
 </div>
+
+---
+
+<div align="center">
+  <img src="https://asciinema.org/a/549324.svg" alt="asciinema demo" />
+</div>
+
