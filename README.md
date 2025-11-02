@@ -117,7 +117,7 @@ Currently diving deep into:
 
 ---
 
-<div align="center">
-  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</div>
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashgoyal0110&theme=tokyonight" />
+</p>
 
