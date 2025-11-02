@@ -115,3 +115,9 @@ Currently diving deep into:
   <img src="https://asciinema.org/a/549324.svg" alt="asciinema demo" />
 </div>
 
+---
+
+<div align="center">
+  <img src="https://github.com/Platane/snk/raw/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</div>
+
