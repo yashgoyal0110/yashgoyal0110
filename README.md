@@ -117,12 +117,6 @@ Currently diving deep into:
 
 ---
 
-<div align="center">
-  <img src="https://asciinema.org/a/549324.svg" alt="asciinema demo" />
-</div>
-
----
-
 ## 💬 Let's Collaborate
 
 💡 Have a project idea or open-source challenge?  
