@@ -87,6 +87,10 @@ Multi-tenant WhatsApp automation SaaS. Drag-and-drop canvas for building chatbot
 </div>
 
 <div align="center">
+  <img src="https://streak-stats.vercel.app/?user=yashgoyal0110&hide_border=true&background=0D1117&stroke=1F2937&ring=22C55E&fire=22C55E&currStreakLabel=F8FAFC&sideLabels=F8FAFC&currStreakNum=22C55E&sideNums=3B82F6&dates=94A3B8" alt="Contribution Streak" />
+</div>
+
+<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgoyal0110&bg_color=0D1117&color=F8FAFC&line=22C55E&point=3B82F6&area=true&area_color=22C55E&title_color=22C55E&hide_border=true" alt="Contribution Activity" />
 </div>
 
