@@ -2,7 +2,7 @@
 
 # Yash Goyal
 
-**Backend & Infrastructure Engineer** — distributed systems, real-time control loops, and the observability to prove they work.
+**Backend & Infrastructure Engineer.** Distributed systems, real-time control loops, and the observability to prove they work.
 
 <p>
   <a href="https://portfolio.yashgoyal.sbs"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22C55E" alt="Portfolio" /></a>
@@ -13,7 +13,7 @@
 </p>
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=620&lines=Teleoperating+robot+arms+at+250+Hz;Keeping+~15+Kubernetes+clusters+alive;Shipping+to+OWASP+%2F+LitmusChaos+%2F+Palisadoes" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=700&color=22C55E&center=true&vCenter=true&width=620&lines=Teleoperating+robot+arms+at+250+Hz;Keeping+Kubernetes+clusters+alive;Shipping+to+OWASP+%2F+LitmusChaos+%2F+Palisadoes" alt="Typing SVG" />
   <br />
   <img src="https://komarev.com/ghpvc/?username=yashgoyal0110&label=Profile%20Views&color=22c55e&style=flat-square" alt="Profile Views" />
 </p>
@@ -22,58 +22,48 @@
 
 ---
 
-## 🤖 What I'm Building
+## About
 
-**Founding Engineering Intern @ [mrfood.ai](https://mrfood.ai)** · *June 2026 – Present*
+I build backend systems that have to hold up under real load, and the tooling that tells you when they don't.
 
-Real-time bimanual teleoperation for 2× 6-DOF AgileX PiPER arms driven from Meta Quest controllers:
+Right now that means real-time robotics teleoperation: streaming controller input through an IK solver into a hardware control loop, and keeping it stable over networks that are anything but. Before that, production Kubernetes and platform work.
 
-- Controller poses → **250 Hz** Pink/Pinocchio differential-IK solver → **100 Hz** SocketCAN control loop, with velocity/accel limiting, jump rejection, and hold-on-fault safety at the hardware boundary.
-- Remote-resilient over lossy links: 4 interchangeable network transports, per-frame `frame_seq` packet-drop detection, self-healing CAN fault recovery.
-- Owned the data pipeline: 4 concurrent video paths (WebRTC, cloud RTC, GCS recorder), telemetry → BigQuery, RGBD → GCS, Prometheus + Grafana + Slack alerting, and a LeRobot writer pushing training-ready datasets to HuggingFace.
+What I care about:
 
-<details>
-<summary><b>Previously</b></summary>
-
-**Forward Deployed Engineer @ Emergent Labs** · *Mar 2026 – May 2026*
-Primary technical engineer for 50+ customers on production apps — Kubernetes crashloops/scheduling, reverse-proxy and container runtime failures across ~15 clusters. 200+ infra incidents resolved, ~45% faster support turnaround, 99.9% uptime held.
-
-**Software Engineer @ Successship Technologies** · *Jan 2025 – July 2025*
-Built a distributor management platform end-to-end (inventory classification, double-entry ledger, payouts) on Spring Boot / Redis / PostgreSQL — drove the company's first client signing and first successful payout. Cut server costs ~20% via multi-stage Docker builds across 5+ services.
-
-</details>
+- Systems that degrade gracefully instead of falling over
+- Observability as a first-class feature, not an afterthought
+- Infrastructure and DX work that makes everyone else faster
+- Open source, especially the unglamorous CI/CD parts
 
 ---
 
-## 🌱 Open Source
+## Open Source
 
 I contribute where the infrastructure is: CI/CD, observability, and developer experience.
 
-| Org | What I shipped |
+| Org | What I work on |
 | :-- | :-- |
-| **[OWASP Nest](https://github.com/OWASP/Nest)** | Django models + tests for new features, SlackBot commands, schema validations, frontend/UI work |
-| **[LitmusChaos](https://github.com/litmuschaos)** | Docker linting in CI quality gates, streamlined contributor setup scripts |
-| **[Palisadoes Foundation](https://github.com/PalisadoesFoundation)** | Reusable CI/CD workflows, large-scale repo migration, OpenTelemetry observability |
+| **[OWASP Nest](https://github.com/OWASP/Nest)** | Backend models and tests, SlackBot automation, schema validation, frontend features |
+| **[LitmusChaos](https://github.com/litmuschaos)** | CI quality gates, contributor onboarding and local setup |
+| **[Palisadoes Foundation](https://github.com/PalisadoesFoundation)** | Reusable CI/CD workflows, repo migration, OpenTelemetry observability |
 
-📊 **[Live PR Dashboard →](https://portfolio.yashgoyal.sbs)**
-
----
-
-## 🚀 Projects
-
-### [Axon](https://github.com/yashgoyal0110) — multi-tenant WhatsApp automation SaaS
-`NestJS` `React` `PostgreSQL` `Prisma` `Redis` `Gemini` `Docker` `GCP`
-
-Drag-and-drop chatbot canvas across 8 node types with workspace-scoped RBAC and immutable published flow versions. One provider-agnostic conversation engine serves Meta Cloud API, Twilio, and a credential-free sandbox — HMAC-SHA256/SHA1 webhook verification, Redis-backed redelivery de-dup, 24h session windows, Gemini fallback for off-script queries. Ships as a single Docker image (API + SPA, one port) behind Caddy with AES-256-GCM credential encryption and rotating refresh tokens.
-
-### [Wanderlust](https://github.com/yashgoyal0110) — 3-tier app on self-managed Kubernetes
-`AWS EC2` `Kubernetes` `Docker` `Node.js` `MongoDB` `Redis`
-
-Cloud-native deployment on a Kubernetes cluster provisioned by hand on EC2 — Deployments, Services, ConfigMaps. Built DevOps-first, optimizing for infrastructure reliability over feature count.
+**[Live PR Dashboard](https://portfolio.yashgoyal.sbs)**
 
 ---
 
-## 🛠️ Stack
+## Projects
+
+**[Axon](https://github.com/yashgoyal0110)** · `NestJS` `React` `PostgreSQL` `Redis` `Gemini` `GCP`
+
+Multi-tenant WhatsApp automation SaaS. Drag-and-drop canvas for building chatbot flows, a provider-agnostic conversation engine, and an LLM fallback for anything off-script.
+
+**[Wanderlust](https://github.com/yashgoyal0110)** · `AWS EC2` `Kubernetes` `Docker` `Node.js` `MongoDB`
+
+3-tier cloud-native app on a self-managed Kubernetes cluster. Built DevOps-first, optimizing for infrastructure reliability over feature count.
+
+---
+
+## Stack
 
 <div align="center">
 
@@ -89,7 +79,7 @@ Cloud-native deployment on a Kubernetes cluster provisioned by hand on EC2 — D
 
 ---
 
-## 📈 Stats
+## Stats
 
 <div align="center">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yashgoyal0110&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=3B82F6&text_color=F8FAFC" alt="GitHub Stats" />
@@ -102,19 +92,10 @@ Cloud-native deployment on a Kubernetes cluster provisioned by hand on EC2 — D
 
 ---
 
-## 🎓 Education & Achievements
-
-**B.Tech, CS & AI** — Rishihood University · *Aug 2023 – Present* · CGPA 8.5/10
-
-- 🏅 **GDG on Campus '24 Lead** — ran flagship tech events, workshops, and community initiatives with Google's GDG network
-- 🥇 **AIR 1200**, ICPC Prelims 2023
-
----
-
 <div align="center">
 
-**Building something that needs to stay up at 3am?** &nbsp;·&nbsp; [Let's talk →](mailto:yashgoyal.dev@zohomail.in)
+**Building something that needs to stay up at 3am?** &nbsp;·&nbsp; [Let's talk](mailto:yashgoyal.dev@zohomail.in)
 
-<sub>⭐ Star anything you find useful.</sub>
+<sub>Star anything you find useful.</sub>
 
 </div>
