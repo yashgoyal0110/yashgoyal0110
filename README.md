@@ -82,8 +82,8 @@ Multi-tenant WhatsApp automation SaaS. Drag-and-drop canvas for building chatbot
 ## Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats.vercel.app/api?username=yashgoyal0110&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=3B82F6&text_color=F8FAFC" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashgoyal0110&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=F8FAFC" alt="Top Languages" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashgoyal0110&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=3B82F6&text_color=F8FAFC" alt="GitHub Stats" />
+  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashgoyal0110&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=F8FAFC" alt="Top Languages" />
 </div>
 
 <div align="center">
