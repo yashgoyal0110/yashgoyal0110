@@ -7,7 +7,7 @@
 <p>
   <a href="https://portfolio.yashgoyal.sbs"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=22C55E" alt="Portfolio" /></a>
   <a href="https://cv.yashgoyal.sbs"><img src="https://img.shields.io/badge/Résumé-0D1117?style=for-the-badge&logo=readdotcv&logoColor=22C55E" alt="Résumé" /></a>
-  <a href="https://www.linkedin.com/in/yashgoyal0110"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=22C55E" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/yashgoyal0110"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logoColor=22C55E&logo=data:image/svg%2Bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYTIuMDYyIDIuMDYyIDAgMDEtMi4wNjMtMi4wNjUgMi4wNjQgMi4wNjQgMCAxMTIuMDYzIDIuMDY1em0xLjc4MiAxMy4wMTlIMy41NTVWOWgzLjU2NHYxMS40NTJ6TTIyLjIyNSAwSDEuNzcxQy43OTIgMCAwIC43NzQgMCAxLjcyOXYyMC41NDJDMCAyMy4yMjcuNzkyIDI0IDEuNzcxIDI0aDIwLjQ1MUMyMy4yIDI0IDI0IDIzLjIyNyAyNCAyMi4yNzFWMS43MjlDMjQgLjc3NCAyMy4yIDAgMjIuMjI1IDB6Ii8+PC9zdmc+" alt="LinkedIn" /></a>
   <a href="https://x.com/yashgoyal0110"><img src="https://img.shields.io/badge/Twitter-0D1117?style=for-the-badge&logo=x&logoColor=22C55E" alt="Twitter" /></a>
   <a href="mailto:yashgoyal.dev@zohomail.in"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=maildotru&logoColor=22C55E" alt="Email" /></a>
 </p>
@@ -53,11 +53,11 @@ I contribute where the infrastructure is: CI/CD, observability, and developer ex
 
 ## Projects
 
-**[Axon](https://github.com/yashgoyal0110)** · `NestJS` `React` `PostgreSQL` `Redis` `Gemini` `GCP`
+**[Axon](https://github.com/yashgoyal0110/axon)** · `NestJS` `React` `PostgreSQL` `Redis` `Gemini` `GCP`
 
 Multi-tenant WhatsApp automation SaaS. Drag-and-drop canvas for building chatbot flows, a provider-agnostic conversation engine, and an LLM fallback for anything off-script.
 
-**[Wanderlust](https://github.com/yashgoyal0110)** · `AWS EC2` `Kubernetes` `Docker` `Node.js` `MongoDB`
+**[Wanderlust](https://github.com/yashgoyal0110/wanderlust)** · `AWS EC2` `Kubernetes` `Docker` `Node.js` `MongoDB`
 
 3-tier cloud-native app on a self-managed Kubernetes cluster. Built DevOps-first, optimizing for infrastructure reliability over feature count.
 
@@ -82,8 +82,12 @@ Multi-tenant WhatsApp automation SaaS. Drag-and-drop canvas for building chatbot
 ## Stats
 
 <div align="center">
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=yashgoyal0110&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=22C55E&icon_color=3B82F6&text_color=F8FAFC" alt="GitHub Stats" />
-  <img height="165em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=yashgoyal0110&layout=compact&langs_count=8&hide_border=true&bg_color=0D1117&title_color=22C55E&text_color=F8FAFC" alt="Top Languages" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yashgoyal0110&theme=github_dark" alt="Profile Summary" />
+</div>
+
+<div align="center">
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yashgoyal0110&theme=github_dark" alt="Top Languages by Repo" />
+  <img height="165em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yashgoyal0110&theme=github_dark" alt="Top Languages by Commit" />
 </div>
 
 <div align="center">
@@ -91,7 +95,7 @@ Multi-tenant WhatsApp automation SaaS. Drag-and-drop canvas for building chatbot
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yashgoyal0110&bg_color=0D1117&color=F8FAFC&line=22C55E&point=3B82F6&area=true&area_color=22C55E&title_color=22C55E&hide_border=true" alt="Contribution Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashgoyal0110&theme=github_dark&utcOffset=5.5" alt="Commit Activity" />
 </div>
 
 ---
