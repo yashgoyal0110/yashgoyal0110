@@ -91,7 +91,7 @@ Multi-tenant WhatsApp automation SaaS. Drag-and-drop canvas for building chatbot
 </div>
 
 <div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashgoyal0110&theme=github_dark&utcOffset=5.5" alt="Commit Activity" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yashgoyal0110&theme=github_dark&utcOffset=5.5&v=2" alt="Commit Activity" />
 </div>
 
 ---
