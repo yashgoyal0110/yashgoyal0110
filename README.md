@@ -1,6 +1,6 @@
 <div align="center">
 
-# Yash Goyal
+# YASH GOYAL
 
 **Backend & Infrastructure Engineer.** Distributed systems, real-time control loops, and the observability to prove they work.
 
